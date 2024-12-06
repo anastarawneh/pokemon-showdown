@@ -702,7 +702,7 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	magcargo: {
 		inherit: true,
 		baseStats: {hp: 60, atk: 50, def: 120, spa: 90, spd: 80, spe: 30},
-		abilities: {0: "Magma Armor"},
+		abilities: {0: "Flame Body"},
 		evoLevel: 16,
 	},
 	mantine: {

@@ -118,6 +118,12 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	submission: {
 		inherit: true,
 		isNonstandard: 'Removed',
+		replacedBy: 'hiddenpowerpsychic',
+	},
+	hiddenpowerpsychic: {
+		inherit: true,
+		pp: 24,
+		isNonstandard: 'Unobtainable',
 	},
 	lowkick: {
 		inherit: true,
@@ -308,6 +314,12 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	spikecannon: {
 		inherit: true,
 		isNonstandard: 'Removed',
+		replacedBy: 'hiddenpowerfire',
+	},
+	hiddenpowerfire: {
+		inherit: true,
+		pp: 24,
+		isNonstandard: 'Unobtainable',
 	},
 	guillotine: {
 		inherit: true,
@@ -320,6 +332,12 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	constrict: {
 		inherit: true,
 		isNonstandard: 'Removed',
+		replacedBy: 'hiddenpowergrass',
+	},
+	hiddenpowergrass: {
+		inherit: true,
+		pp: 24,
+		isNonstandard: 'Unobtainable',
 	},
 	amnesia: {
 		inherit: true,
@@ -342,10 +360,22 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	poisongas: {
 		inherit: true,
 		isNonstandard: 'Removed',
+		replacedBy: 'hiddenpowerice',
+	},
+	hiddenpowerice: {
+		inherit: true,
+		pp: 24,
+		isNonstandard: 'Unobtainable',
 	},
 	barrage: {
 		inherit: true,
 		isNonstandard: 'Removed',
+		replacedBy: 'hiddenpowerghost'
+	},
+	hiddenpowerghost: {
+		inherit: true,
+		pp: 24,
+		isNonstandard: 'Unobtainable',
 	},
 	leechlife: {
 		inherit: true,
@@ -383,6 +413,12 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	splash: {
 		inherit: true,
 		isNonstandard: 'Removed',
+		replacedBy: 'hiddenpowerwater',
+	},
+	hiddenpowerwater: {
+		inherit: true,
+		pp: 24,
+		isNonstandard: 'Unobtainable',
 	},
 	acidarmor: {
 		inherit: true,
@@ -416,6 +452,12 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	sharpen: {
 		inherit: true,
 		isNonstandard: 'Removed',
+		replacedBy: 'hiddenpowerdark',
+	},
+	hiddenpowerdark: {
+		inherit: true,
+		pp: 24,
+		isNonstandard: 'Unobtainable',
 	},
 	triattack: {
 		inherit: true,
@@ -433,6 +475,12 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	triplekick: {
 		inherit: true,
 		isNonstandard: 'Removed',
+		replacedBy: 'hiddenpowerrock',
+	},
+	hiddenpowerrock: {
+		inherit: true,
+		pp: 24,
+		isNonstandard: 'Unobtainable',
 	},
 	snore: {
 		inherit: true,
@@ -456,6 +504,12 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	cottonspore: {
 		inherit: true,
 		isNonstandard: 'Removed',
+		replacedBy: 'hiddenpowerelectric',
+	},
+	hiddenpowerelectric: {
+		inherit: true,
+		pp: 24,
+		isNonstandard: 'Unobtainable',
 	},
 	reversal: {
 		inherit: true,
@@ -514,6 +568,12 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	outrage: {
 		inherit: true,
 		isNonstandard: 'Removed',
+		replacedBy: 'hiddenpowerground',
+	},
+	hiddenpowerground: {
+		inherit: true,
+		pp: 24,
+		isNonstandard: 'Unobtainable',
 	},
 	sandstorm: {
 		inherit: true,
@@ -660,6 +720,12 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	futuresight: {
 		inherit: true,
 		isNonstandard: 'Removed',
+		replacedBy: 'hiddenpowerfighting',
+	},
+	hiddenpowerfighting: {
+		inherit: true,
+		pp: 24,
+		isNonstandard: 'Unobtainable',
 	},
 	rocksmash: {
 		inherit: true,
@@ -720,6 +786,12 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	trick: {
 		inherit: true,
 		isNonstandard: 'Removed',
+		replacedBy: 'hiddenpowerflying',
+	},
+	hiddenpowerflying: {
+		inherit: true,
+		pp: 24,
+		isNonstandard: 'Unobtainable',
 	},
 	wish: {
 		inherit: true,
@@ -991,6 +1063,12 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	covet: {
 		inherit: true,
 		isNonstandard: 'Removed',
+		replacedBy: 'hiddenpowerbug',
+	},
+	hiddenpowerbug: {
+		inherit: true,
+		pp: 24,
+		isNonstandard: 'Unobtainable',
 	},
 	volttackle: {
 		inherit: true,

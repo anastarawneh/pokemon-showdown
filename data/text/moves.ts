@@ -3170,51 +3170,65 @@ export const MovesText: {[k: string]: MoveText} = {
 	},
 	hiddenpowerbug: {
 		name: "Hidden Power Bug",
+		shortDesc: "A custom move for the EK AI.",
 	},
 	hiddenpowerdark: {
 		name: "Hidden Power Dark",
+		shortDesc: "A custom move for the EK AI.",
 	},
 	hiddenpowerdragon: {
 		name: "Hidden Power Dragon",
 	},
 	hiddenpowerelectric: {
 		name: "Hidden Power Electric",
+		shortDesc: "A custom move for the EK AI.",
 	},
 	hiddenpowerfighting: {
 		name: "Hidden Power Fighting",
+		shortDesc: "A custom move for the EK AI.",
 	},
 	hiddenpowerfire: {
 		name: "Hidden Power Fire",
+		shortDesc: "A custom move for the EK AI.",
 	},
 	hiddenpowerflying: {
 		name: "Hidden Power Flying",
+		shortDesc: "A custom move for the EK AI.",
 	},
 	hiddenpowerghost: {
 		name: "Hidden Power Ghost",
+		shortDesc: "A custom move for the EK AI.",
 	},
 	hiddenpowergrass: {
 		name: "Hidden Power Grass",
+		shortDesc: "A custom move for the EK AI.",
 	},
 	hiddenpowerground: {
 		name: "Hidden Power Ground",
+		shortDesc: "A custom move for the EK AI.",
 	},
 	hiddenpowerice: {
 		name: "Hidden Power Ice",
+		shortDesc: "A custom move for the EK AI.",
 	},
 	hiddenpowerpoison: {
 		name: "Hidden Power Poison",
+		shortDesc: "A custom move for the EK AI.",
 	},
 	hiddenpowerpsychic: {
 		name: "Hidden Power Psychic",
+		shortDesc: "A custom move for the EK AI.",
 	},
 	hiddenpowerrock: {
 		name: "Hidden Power Rock",
+		shortDesc: "A custom move for the EK AI.",
 	},
 	hiddenpowersteel: {
 		name: "Hidden Power Steel",
 	},
 	hiddenpowerwater: {
 		name: "Hidden Power Water",
+		shortDesc: "A custom move for the EK AI.",
 	},
 	highhorsepower: {
 		name: "High Horsepower",

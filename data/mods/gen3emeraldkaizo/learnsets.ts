@@ -4821,7 +4821,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
             focuspunch: ["3M"],
             frustration: ["3M"],
             hiddenpower: ["3M"],
-            hijumpkick: ["3L51"],
+            hijumpkick: ["3L26", "3L51"],
             jumpkick: ["3L16"],
             megakick: ["3T", "3L31"],
             megapunch: ["3T"],

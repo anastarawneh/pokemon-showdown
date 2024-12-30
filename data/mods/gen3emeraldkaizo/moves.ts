@@ -282,6 +282,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		basePower: 120,
 		accuracy: 100,
 		type: "Grass",
+		recoil: [33, 100],
 	},
 	sludge: {
 		inherit: true,
@@ -310,6 +311,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		inherit: true,
 		accuracy: 100,
 		pp: 8,
+		recoil: [33, 100],
 	},
 	spikecannon: {
 		inherit: true,
@@ -392,6 +394,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		basePower: 120,
 		accuracy: 100,
 		pp: 16,
+		recoil: [33, 100],
 	},
 	transform: {
 		inherit: true,
@@ -602,6 +605,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	wildcharge: {
 		inherit: true,
 		pp: 24,
+		recoil: [33, 100],
 	},
 	furycutter: {
 		inherit: true,
@@ -808,6 +812,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	superpower: {
 		inherit: true,
 		pp: 8,
+		recoil: [33, 100],
 	},
 	recycle: {
 		inherit: true,
@@ -821,6 +826,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		inherit: true,
 		isNonstandard: 'Removed',
 		replacedBy: 'dracometeor',
+		recoil: [33, 100],
 	},
 	dracometeor: {
 		inherit: true,
@@ -947,6 +953,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		basePower: 120,
 		accuracy: 100,
 		pp: 16,
+		recoil: [33, 100],
 	},
 	odorsleuth: {
 		inherit: true,
@@ -1073,6 +1080,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	volttackle: {
 		inherit: true,
 		pp: 24,
+		recoil: [33, 100],
 	},
 	calmmind: {
 		inherit: true,

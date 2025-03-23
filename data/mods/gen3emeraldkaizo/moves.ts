@@ -903,12 +903,14 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	},
 	blastburn: {
 		inherit: true,
-		basePower: 100,
+		basePower: 150,
+		accuracy: 100,
 		pp: 8,
 	},
 	hydrocannon: {
 		inherit: true,
-		basePower: 100,
+		basePower: 150,
+		accuracy: 100,
 		pp: 8,
 	},
 	meteormash: {
@@ -1049,7 +1051,8 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	},
 	frenzyplant: {
 		inherit: true,
-		basePower: 100,
+		basePower: 150,
+		accuracy: 100,
 		pp: 8,
 	},
 	bulkup: {

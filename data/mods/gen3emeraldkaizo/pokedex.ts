@@ -174,6 +174,11 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit: true,
 		evoLevel: 16,
 	},
+	golbat: {
+		inherit: true,
+		evoLevel: 1,
+		evoType: "level",
+	},
 	golduck: {
 		inherit: true,
 		abilities: {0: "Swift Swim", 1: "Oblivious"},
@@ -270,6 +275,11 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	lickitung: {
 		inherit: true,
 		catchRate: 65,
+	},
+	igglybuff: {
+		inherit: true,
+		evoLevel: 1,
+		evoType: "level",
 	},
 	machamp: {
 		inherit: true,
@@ -582,6 +592,8 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	cleffa: {
 		inherit: true,
+		evoLevel: 1,
+		evoType: "level",
 		heldItems: ["050leppaberry", "005moonstone"],
 	},
 	corsola: {
@@ -748,6 +760,8 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	pichu: {
 		inherit: true,
+		evoLevel: 1,
+		evoType: "level",
 		heldItems: ["005oranberry"],
 	},
 	piloswine: {
@@ -873,6 +887,8 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	togepi: {
 		inherit: true,
+		evoLevel: 1,
+		evoType: "level",
 		abilities: {0: "Serene Grace", 1: "Hustle"},
 	},
 	togetic: {
@@ -934,6 +950,8 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	azurill: {
 		inherit: true,
+		evoLevel: 1,
+		evoType: "level",
 		abilities: {0: "Huge Power", 1: "Thick Fat"},
 	},
 	bagon: {

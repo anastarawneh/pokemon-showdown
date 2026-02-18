@@ -723,8 +723,9 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	},
 	futuresight: {
 		inherit: true,
-		isNonstandard: 'Removed',
-		replacedBy: 'hiddenpowerfighting',
+		basePower: 120,
+		accuracy: 100,
+		priority: 4
 	},
 	hiddenpowerfighting: {
 		inherit: true,
@@ -840,7 +841,8 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	},
 	snatch: {
 		inherit: true,
-		pp: 3,
+		isNonstandard: 'Removed',
+		replacedBy: 'hiddenpowerfighting',
 	},
 	armthrust: {
 		inherit: true,

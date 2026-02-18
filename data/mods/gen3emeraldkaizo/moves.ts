@@ -658,6 +658,10 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		accuracy: 90,
 		pp: 16,
 	},
+	pursuit: {
+		inherit: true,
+		basePower: 50,
+	},
 	rapidspin: {
 		inherit: true,
 		pp: 1,

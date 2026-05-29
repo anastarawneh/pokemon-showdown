@@ -12820,7 +12820,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
             strength: ["3M"],
             swagger: ["3T"],
             thunderpunch: ["3T"],
-            thunderwave: ["3T", "3L37"],
+            thunderwave: ["3T", "3L1", "3L37"],
             torment: ["3M"],
             toxic: ["3M"]
         }
